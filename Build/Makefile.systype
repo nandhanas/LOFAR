@@ -1,0 +1,24 @@
+CC       =  gcc-10
+CXX      =  g++-10
+
+MPICC    =  mpicc
+MPIC++   =  mpiCC
+
+OPTIMIZE =
+
+
+GSL_INCL =
+GSL_LIB =
+
+FFTW_INCL=
+FFTW_LIB=
+
+NVCC =
+NVFLAGS =
+NVLIB =
+
+CFLAGS +=
+
+MPICHLIB =
+HDF5INCL =
+HDF5LIB  =

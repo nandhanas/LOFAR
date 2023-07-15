@@ -1,0 +1,9 @@
+*.o
+.DS_Store 
+sync.sh
+phase_correction.c
+w-stacking.c
+w-stackingCfftw
+w-stackingfftw
+w-stackingCfftw_serial
+w-stackingfftw_serial
