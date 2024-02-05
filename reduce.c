@@ -4,6 +4,9 @@
 #  endif
 #endif
 
+//Revamped by NANDHANA SAKTHIVEL as part of her Master thesis, DSSC, UNITS, Italy
+
+
 #include <stdio.h>
 #include <math.h>
 #include "allvars.h"
