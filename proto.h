@@ -1,5 +1,7 @@
 /* function declaration */
 
+//Revamped by NANDHANA SAKTHIVEL as part of her Master thesis, DSSC, UNITS, Italy
+
 /* init.c */
 
 void init(int i);
