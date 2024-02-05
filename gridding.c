@@ -13,7 +13,7 @@ void gridding()
 
   TAKE_TIME_START(init);
   
-  // Initialize linked list
+  // Initialize array
   initialize_array();
 
   TAKE_TIME_STOP(init);
