@@ -2,6 +2,8 @@
 #include "allvars.h"
 #include "proto.h"
 
+//Revamped by NANDHANA SAKTHIVEL as part of her Master thesis, DSSC, UNITS, Italy
+
 void fftw_data()
 {
   
