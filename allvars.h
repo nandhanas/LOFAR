@@ -1,5 +1,7 @@
 /* file to store global variables*/
 
+//Revamped by NANDHANA SAKTHIVEL as part of her Master thesis, DSSC, UNITS, Italy
+
 
 #if defined(__STDC__)
 #  if (__STDC_VERSION__ >= 199901L)
